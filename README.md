@@ -64,15 +64,23 @@ Webgunera hurbilduko den erabiltzailea anitza izango da, adin eta egoera sozio-e
 Bi profil nagusi identifikatu dira, lehena, erabiltzaile arrunta, webguneko bolumenaren zatirik handiena da, eta bigarrena berriz, administratzailea, webgunearen kudeaketaren arduradun nagusia.
 Ondorengo irudian erabilera kasu diagrama jaso da profil bakoitzaren zereginak definituz:
 
-![alt text](image.jpg)
-
-
-<br>
+![Erabilera kasu diagrama](images/ErabileraKasuDiagrama.jpg)
 
 ## Krokisa
-
+Krokisa burutzean **Mobile first** izan da kontutan. Webgunearen erabilerarik ugariena mobil bidez izango dela uste bait da.
+Ondorengo irudietan jaso da webguneak izango duen eskema, bertan ez dira kontutan izan ez kolore, ez tipografia, etab. Hauek estilo-gida eta prototipoan zehaztuko bait dira.
 
 ### Mobila
+
+Mobileko krokisa burutzen erabilgarritasuna izan da kontutan. Hasierako pantailan izango den hamburger menuaz gain, mobileko web orri guztitan beheko nabigazio barra iraunkor bat jartzea erabaki da.
+
+Mobile prototipoa hasiera eta adopzio orrientzat:
+
+![Mobile prototipoa, hasiera eta adopzioa](images/MobileKrokisaHasieraAdopzioa.jpg)
+
+Mobile prototipoa hasiera eta adopzio orrientzat:
+
+![Mobile prototipoa, katu fitxa eta alerta formularioa](images/MobileKrokisaKatuFitxaAlertaForm.jpg)
 
 ### Eskritorioa
 
