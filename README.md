@@ -84,6 +84,17 @@ Mobile prototipoa hasiera eta adopzio orrientzat:
 
 ### Eskritorioa
 
+Eskritorioan pantaila zabalera aprobetxatzen da, behin baino gehiagotan web orriak zutabetan ordenatuz.
+Orri guztietan goiburu bera definitu da, logoa, menua, bilaketa, dohaintza eta hizkuntza aukerak ezarriz. Footerra ere berdina izango da orri guztietan.
+
+Eskritorio prototipoa, hasiera:
+
+![Eskritorio prototipoa, hasiera](images/EskritorioPrototipoaHasiera.jpg)
+
+Eskritorio prototipoa, adopzioa:
+
+![Eskritorio prototipoa, adopzioa](images/EskritorioPrototipoaAdopzioa.jpg)
+
 <br>
 
 ## Nabigazio mapa
