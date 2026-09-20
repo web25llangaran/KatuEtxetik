@@ -66,6 +66,8 @@ Ondorengo irudian erabilera kasu diagrama jaso da profil bakoitzaren zereginak d
 
 ![Erabilera kasu diagrama](images/ErabileraKasuDiagrama.jpg)
 
+<br>
+
 ## Krokisa
 Krokisa burutzean **Mobile first** izan da kontutan. Webgunearen erabilerarik ugariena mobil bidez izango dela uste bait da.
 Ondorengo irudietan jaso da webguneak izango duen eskema, bertan ez dira kontutan izan ez kolore, ez tipografia, etab. Hauek estilo-gida eta prototipoan zehaztuko bait dira.
@@ -98,3 +100,16 @@ Eskritorio prototipoa, adopzioa:
 <br>
 
 ## Nabigazio mapa
+
+Webguneak hamalau orri izango ditu, hauek lau mailatan banatuko dira:
+
+1. Maila: Hasiera orria.
+2. Maila: Elkarte, adoptatu, alertak, lagundu, albisteak orriak
+3. Maila: Animalien fitxa, alerta formularioa jakinarazpen berria, alerta formularioa egoera aldaketa, harrera etxea parte hartu formularioa, bazkidetza formularioa, ekarpena (banku pasabidea), boluntaritza formularioa.
+4. Maila: adopzio formularioa.
+
+Webgunearen antolaketa eta nabigazioaren parte bat definitu da ondorengo irudian:
+
+![Nabigazio mapa](images/katuetxetikNabigazioMapa.jpg)
+
+Irudian adierazitako loturez gain kontutan izan behar dira eman daitezken lotura (nabigazio) horizontal guztiak, webguneko orri guztitan dauden goiburutik eta bai footeretik aldi oro eman bait daitezke nabigazio horizontalak.
