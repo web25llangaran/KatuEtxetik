@@ -43,7 +43,7 @@ Ondorengo webguneak aztertu dira:
 - **Adopciones La Granja de Labayru** : [https://www.adopcioneslagranja.com/](https://www.adopcioneslagranja.com/)
   - **Ahula** : Guztiz zaharkitutako webgunea. Egin behar ez denaren adibidea
     
-- **Felinos Bilbao** : [felinosbilbao.org](felinosbilbao.org)
+- **Felinos Bilbao** : [https://felinosbilbao.org](https://felinosbilbao.org)
    - **Ona** : Dohaintza eskura, albisteak atala, animalien egoerari buruzko informazio sakona.
    - **Ahula** : Orria gaztelera hutsean.
 
