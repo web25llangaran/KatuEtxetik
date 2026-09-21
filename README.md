@@ -66,11 +66,8 @@ Ondorengo webguneak aztertu dira:
 
 ## 3. User profila
 
-Webgunera hurbilduko den erabiltzailea anitza izango da, adin eta egoera sozio-ekonomiko definitu gabeko pertsona konprometitua.
-Bi profil nagusi identifikatu dira, lehena, erabiltzaile arrunta, webguneko bolumenaren zatirik handiena da, eta bigarrena berriz, administratzailea, webgunearen kudeaketaren arduradun nagusia.
-Ondorengo irudian erabilera kasu diagrama jaso da profil bakoitzaren zereginak definituz:
-
-![Erabilera kasu diagrama](images/ErabileraKasuDiagrama.jpg)
+Webgunera hurbilduko den erabiltzailea anitza izango da, adin eta egoera sozio-ekonomiko definitu gabeko pertsona konprometitua. Gazteak orokorrean esperientzia handiarekin hurbilduko dira webgunera, baino bada perfil helduago bat, webguneekiko harreman txikia izanik nahikoa ezezagutzarekin hurbilduko dena. Hori dela eta webgunea burutzean erabilgarritasuna kontu handian hartuko da.
+Erabiltzaileen artean bi profil nagusi identifikatu dira, lehena, erabiltzaile arrunta, webguneko bolumenaren zatirik handiena da, eta bigarrena berriz, administratzailea, webgunearen kudeaketaren arduradun nagusia.
 
 <br>
 
