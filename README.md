@@ -17,8 +17,8 @@ Animalien Babesleen Sarearen Webgunea
    6.1. [Koloreak](#61-koloreak) <br>
    6.2. [Tipografia](#62-tipografia) <br>
    6.3. [Ikonoak](#63-ikonoak) <br>
-   6.4. [Botoiak](#62-botoiak) <br>
-   6.5. [Irudiak](#62-irudiak) <br>
+   6.4. [Botoiak](#64-botoiak) <br>
+   6.5. [Irudiak](#65-irudiak) <br>
 
 <br>
 
