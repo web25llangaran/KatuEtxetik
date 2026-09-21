@@ -13,6 +13,12 @@ Animalien Babesleen Sarearen Webgunea
    1. Mobila
    2. Eskritorioa
 6. Nabigazio mapa
+7. Estilo gida
+   1. Koloreak
+   2. Tipografia
+   3. Ikonoak
+   5. Botoiak
+   6. Irudiak
 
 <br>
 
