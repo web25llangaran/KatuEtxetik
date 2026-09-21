@@ -66,7 +66,7 @@ Ondorengo webguneak aztertu dira:
 
 ## 3. User profila
 
-Webgunera hurbilduko den erabiltzailea anitza izango da, adin eta egoera sozio-ekonomiko definitu gabeko pertsona konprometitua. Gazteak orokorrean esperientzia handiarekin hurbilduko dira webgunera, baino bada perfil helduago bat, webguneekiko harreman txikia izanik nahikoa ezezagutzarekin hurbilduko dena. Hori dela eta webgunea burutzean erabilgarritasuna kontu handian hartuko da.
+Webgunera hurbilduko den erabiltzailea anitza izango da, adin eta egoera sozio-ekonomiko definitu gabeko pertsona konprometitua. Gazteak orokorrean esperientzia handiarekin hurbilduko dira webgunera, baino bada perfil helduago bat, webguneekiko harreman txikia izanik nahikoa ezezagutzarekin hurbilduko dena. Hori dela eta webgunea burutzean erabilgarritasuna kontu handian hartuko da.<br>
 Erabiltzaileen artean bi profil nagusi identifikatu dira, lehena, erabiltzaile arrunta, webguneko bolumenaren zatirik handiena da, eta bigarrena berriz, administratzailea, webgunearen kudeaketaren arduradun nagusia.
 
 <br>
