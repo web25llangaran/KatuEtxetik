@@ -119,3 +119,12 @@ Webgunearen antolaketa eta nabigazioaren parte bat definitu da ondorengo irudian
 ![Nabigazio mapa](images/katuetxetikNabigazioMapa.jpg)
 
 Irudian adierazitako loturez gain kontutan izan behar dira eman daitezken lotura (nabigazio) horizontal guztiak, webguneko orri guztitan dauden goiburutik eta bai footeretik aldi oro eman bait daitezke nabigazio horizontalak.
+
+<br>
+
+## 6. Estilo gida
+### 6.1. Koloreak<br>
+### 6.2. Tipografia<br>
+### 6.3. Ikonoak<br>
+### 6.4. Botoiak<br>
+### 6.5. Irudiak<br>
