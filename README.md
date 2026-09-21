@@ -7,7 +7,7 @@ Animalien Babesleen Sarearen Webgunea
 
 1. [Sarrera](#1-Sarrera)
 2. [Benchmark](#2-Benchmark)      
-   2.1. [Ondorioak](#2.1.-Ondorioak)
+   2.1. [Ondorioak](#2.1-Ondorioak)
 3. [User profila](#3-User-profila)
 4. [Krokisa](#4-Krokisa)       
    4.1. Mobila <br>
