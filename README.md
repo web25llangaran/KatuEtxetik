@@ -7,13 +7,13 @@ Animalien Babesleen Sarearen Webgunea
 
 1. [Sarrera](#1-Sarrera)
 2. [Benchmark](#2-Benchmark)      
-   [2.1. Ondorioak](#2.1.-Ondorioak)
-3. User profila
-4. Krokisa       
+   2.1. [Ondorioak](#2.1.-Ondorioak)
+3. [User profila](#3-User-profila)
+4. [Krokisa](#4-Krokisa)       
    4.1. Mobila <br>
    4.2. Eskritorioa
-5. Nabigazio mapa
-6. Estilo gida     
+5. [Nabigazio mapa](#5-Nabigazio-mapa)
+6. [Estilo gida](#6-Estilo-gida)     
    6.1. Koloreak<br>
    6.2. Tipografia<br>
    6.3. Ikonoak<br>
