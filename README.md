@@ -10,15 +10,15 @@ Animalien Babesleen Sarearen Webgunea
    2.1. [Ondorioak](#21-ondorioak)
 3. [User profila](#3-user-profila)
 4. [Krokisa](#4-krokisa)       
-   4.1. Mobila <br>
-   4.2. Eskritorioa
+   4.1. [Mobila](#41-mobila)<br>
+   4.2. [Eskritorioa](#42-eskritorioa)
 5. [Nabigazio mapa](#5-nabigazio-mapa)
 6. [Estilo gida](#6-estilo-gida)     
-   6.1. Koloreak<br>
-   6.2. Tipografia<br>
-   6.3. Ikonoak<br>
-   6.4. Botoiak<br>
-   6.5. Irudiak<br>
+   6.1. [Koloreak](#61-koloreak) <br>
+   6.2. [Tipografia](#62-tipografia) <br>
+   6.3. [Ikonoak](#63-ikonoak) <br>
+   6.4. [Botoiak](#62-botoiak) <br>
+   6.5. [Irudiak](#62-irudiak) <br>
 
 <br>
 
