@@ -8,17 +8,17 @@ Animalien Babesleen Sarearen Webgunea
 1. Sarrera
 2. Benchmark     
    2.1. Ondorioak
-4. User profila
-5. Krokisa       
-   5.1. Mobila <br>
-   5.2. Eskritorioa
-6. Nabigazio mapa
-7. Estilo gida     
-   7.1. Koloreak<br>
-   7.2. Tipografia<br>
-   7.3. Ikonoak<br>
-   7.4. Botoiak<br>
-   7.5. Irudiak<br>
+3. User profila
+4. Krokisa       
+   4.1. Mobila <br>
+   4.2. Eskritorioa
+5. Nabigazio mapa
+6. Estilo gida     
+   6.1. Koloreak<br>
+   6.2. Tipografia<br>
+   6.3. Ikonoak<br>
+   6.4. Botoiak<br>
+   6.5. Irudiak<br>
 
 <br>
 
@@ -90,7 +90,7 @@ Mobile prototipoa hasiera eta adopzio orrientzat:
 
 ![Mobile prototipoa, katu fitxa eta alerta formularioa](images/MobileKrokisaKatuFitxaAlertaForm.jpg)
 
-### 5.1. Eskritorioa
+### 4.2. Eskritorioa
 
 Eskritorioan pantaila zabalera aprobetxatzen da, behin baino gehiagotan web orriak zutabetan ordenatuz.
 Orri guztietan goiburu bera definitu da, logoa, menua, bilaketa, dohaintza eta hizkuntza aukerak ezarriz. Footerra ere berdina izango da orri guztietan.
@@ -105,7 +105,7 @@ Eskritorio prototipoa, adopzioa:
 
 <br>
 
-## 6. Nabigazio mapa
+## 5. Nabigazio mapa
 
 Webguneak hamalau orri izango ditu, hauek lau mailatan banatuko dira:
 
