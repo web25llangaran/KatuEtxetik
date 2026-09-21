@@ -109,7 +109,6 @@ Webguneak sei orri izango ditu, hauek bi mailatan banatuko dira:
 1. Maila: Hasiera orria.
 2. Maila: Elkarte, adoptatu, lagundu.
 3. Maila: Animalien fitxa, bazkidetza formularioa.
-4. Maila: adopzio formularioa.
 
 Webgunearen antolaketa eta nabigazioaren parte bat definitu da ondorengo irudian:
 
