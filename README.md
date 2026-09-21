@@ -6,7 +6,7 @@ Animalien Babesleen Sarearen Webgunea
 ## Aurkibidea
 
 1. Sarrera
-2. Benchmark     
+2. [Benchmark](#2.-Benchmark)      
    2.1. Ondorioak
 3. User profila
 4. Krokisa       
