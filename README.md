@@ -230,7 +230,7 @@ Botoi batek bizia dela erakutsi behar du sagua gainetik pasatzean edo sakatzean:
 
 Katuen adopzio webgune batean, hauen argazkiek emozioa piztu eta konfiantza helarazi behar dute, horretarako, argi naturala eta tonu beroak erabiliko dira argazkitan, koloretan bezala hotzak sahiestuaz. Hala nola, giro etxekoia, pertsonalizazioa, duintasuna eman beharko zaie argazki hauei.
 
-- **rabilgarritasunari** dagokionez:
+- **Erabilgarritasunari** dagokionez:
   
    - Webp edo AVIF formatuan landuko dira irudiak. JPG edo PNG formatuen kalitate bera eskaitzen dute, baina pisu gutxiagorekin.
 
