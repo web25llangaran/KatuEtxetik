@@ -170,7 +170,7 @@ Webguneak itxura profesionala, atsegina eta irisgarria izateko, ikonoek irizpide
 
 - **Argitasuna eta intuitibotasuna:**
 
-   - Ikonoak berez ulertu behar da.
+   - Ikonoa berez ulertu behar da.
   
 - **Formatua, SVG nahitaez:**
 
