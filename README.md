@@ -187,7 +187,7 @@ Webguneak itxura profesionala, atsegina eta irisgarria izateko, ikonoek irizpide
    - Ikusmen-desgaitasuna duten pertsonentzat pantaila-irakurleek ikonoa irakurtzeko, ikono bakoitzak bere aria-label edo alt atributua izatea beharrezkoa da.
 
 
-Aurreko atalean definitutako tipografia kontuan izanik, webguneko ikonoek ondorengo tamaina izan beharko dute. Horrela, testuaren eta ikonoaren arteko oreda bisuala lortuko da:
+Aurreko atalean definitutako tipografia kontuan izanik, webguneko ikonoek ondorengo tamaina izan beharko dute. Horrela, testuaren eta ikonoaren arteko oreka bisuala lortuko da:
 
 - **16px testurako,** ikono-tamaina: 20px × 20px (edo gehienez 24px × 24px).
 
@@ -219,11 +219,10 @@ Aurreko atalean definitutako tipografia kontuan izanik, webguneko ikonoek ondore
    - Ikonoak botoietan: Botoi nagusietan ikono bat jartzen bada, testuaren ezkerrean jarri behar da, 8px-ko tartearekin (gap: 8px).
 
 - **Interaktibitatea (Micro-interactions):**
+- 
 Botoi batek bizia dela erakutsi behar du sagua gainetik pasatzean edo sakatzean:
 
    - Hover (sagua gainean dela): Kolorea %10 ilundu eta botoia 2px igotzea itzal leun bat gehituz.
-
-   - Focus (irisgarritasuna): Tabuladorearekin nabigatzen dutenentzat, botoi inguruan 2px-ko marra iluna agertu behar da.
 
    - Active (sakatzean): Botoia 1px beherantz sakatu dela simulatuko da.
 
