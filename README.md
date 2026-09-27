@@ -141,22 +141,22 @@ Hau kontuan izanik, kolore bat esleitzeko, gida honek gaiei lotutako ondorengo k
 
 ### 6.2. Tipografia<br>
 
-Tipografiari dagokionez, web gune honetarako forma borobildu edo leunak dituen letra-tipo bat erabiliko da izenburuentzat, xarma eta irisgarritasuna transmititzeko. Eta sans-serif neutro bat testu-gorputzerako, katu fitxak eta beharrezko baldintzak erraz irakurri ahal izan daitezen:
+Tipografiari dagokionez, web gune honetarako forma borobildu edo leunak dituen letra-tipo bat erabiliko da izenburuentzat, xarma eta irisgarritasuna transmititzeko. Eta sans-serif neutro bat testu-gorputzerako, katu fitxak eta beharrezko baldintzak erraz irakurri ahal izan daitezen. Konbinazio hauek Google Fonts-etik atera dira:
 
 | Funtzioa      | Izenburu eta izenak    |  Testu-gorputza     |  Estiloa eta sentsazioa     |
 | :---          | :---       |     :----:     |  :---                      |
-| **Beroa eta modernoa** | Nunito edo Quicksand  | Inter edo Open Sans | Ertz leunduko letra-tipoak maitasuna helarazteko, testu garbi eta moderno batekin |
-| **Narratiboa eta emotiboa** | Lora  | Nunito Sans  | Serif iturriak erreskate-istorioak modu intimo eta editorialagoan kontatzen laguntzen du|
+| **Beroa eta modernoa** | Nunito  | Inter edo Open Sans | Ertz leunduko letra-tipoak maitasuna helarazteko, testu garbi eta moderno batekin |
+| **Narratiboa eta emotiboa** | Lora  | Nunito Sans  | Serif iturriak istorioak modu intimo eta editorialagoan kontatzen laguntzen du. Katuak galdu/bilatu...|
 | **Hurbila eta Argia** | Rubik  | Roboto  | Egituratua, oso irakurgarria eta hurbila profesionaltasuna galdu gabe |
 
 **Katuen fitxetan erabiltzeko irizpideak:**
-- **Katuen izenak:** Erabili tituluko tipografia Bold (lodia) pisuarekin eta tamaina handian (gutxienez 24px - 32px), fitxaren erdigunea izan dadin.
+- **Katuen izenak:** Izenburuko tipografia Bold (lodia) pisuarekin eta tamaina handian (gutxienez 24px - 32px) erabiliko da, fitxaren erdigunea izan dadin.
 
-- **Datu teknikoak (Adina, Sexua, Izaera, Osasuna):** Erabili testu-gorputzeko iturria tamaina estandarrean (16px), etiketei lodia aplikatuz (adib., Izaera: Beldurti samarra baina oso goxoa).
+- **Datu teknikoak (Adina, Sexua, Izaera, Osasuna):** Testu-gorputzeko iturria tamaina estandarrean (16px), etiketei Bold aplikatuz (adib., Izaera: Beldurti samarra baina oso goxoa) erabiliko da.
 
-- **Lerrorarteko tartea:** Egokitu linearen altuera (line-height) 1.5 eta 1.6 artean testu-gorputzean, istorio luzeak erraz irakurri ahal izateko.
+- **Lerrorarteko tartea:** Linearen altuera (line-height) 1.5 eta 1.6 artean egokituko da testu-gorputzean, istorio luzeak erraz irakurri ahal izateko.
 
-- **Irakurgarritasuna botoietan:** Terrakota edo koral koloreko botoietan, erabili letra zuriz eta SemiBold edo Bold pisuarekin kontraste egokia bermatzeko.
+- **Irakurgarritasuna botoietan:** Terrakota edo koral koloredun botoietan, letra zuria eta SemiBold edo Bold pisuarekin erabiliko da, kontraste egokia bermatzeko.
 
 ### 6.3. Ikonoak<br>
 ### 6.4. Botoiak<br>
