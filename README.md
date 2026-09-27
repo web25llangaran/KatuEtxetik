@@ -219,7 +219,7 @@ Aurreko atalean definitutako tipografia kontuan izanik, webguneko ikonoek ondore
    - Ikonoak botoietan: Botoi nagusietan ikono bat jartzen bada, testuaren ezkerrean jarri behar da, 8px-ko tartearekin (gap: 8px).
 
 - **Interaktibitatea (Micro-interactions):**
-- 
+
 Botoi batek bizia dela erakutsi behar du sagua gainetik pasatzean edo sakatzean:
 
    - Hover (sagua gainean dela): Kolorea %10 ilundu eta botoia 2px igotzea itzal leun bat gehituz.
@@ -227,3 +227,17 @@ Botoi batek bizia dela erakutsi behar du sagua gainetik pasatzean edo sakatzean:
    - Active (sakatzean): Botoia 1px beherantz sakatu dela simulatuko da.
 
 ### 6.5. Irudiak<br>
+
+Katuen adopzio webgune batean, hauen argazkiek emozioa piztu eta konfiantza helarazi behar dute, horretarako, argi naturala eta tonu beroak erabiliko dira argazkitan, koloretan bezala hotzak sahiestuaz. Hala nola, giro etxekoia, pertsonalizazioa, duintasuna eman beharko zaie argazki hauei.
+
+- **rabilgarritasunari** dagokionez:
+  
+   - Webp edo AVIF formatuan landuko dira irudiak. JPG edo PNG formatuen kalitate bera eskaitzen dute, baina pisu gutxiagorekin.
+
+   - Irudiek gutxi okupatu behar dute (100 - 150 KB). Webguneak 2 segunduren azpitik kargatu behar du mugikorretan.
+
+   - Resoluzioa ere zaindu behar da pantailetan ikusteko balio estandarra erabiliz.
+
+- **Irisgarritasunari** dagokionez berriz:
+
+     - Pantaila-irakurleak erabiltzen dituzten pertsonentzat zein Google-n kokatzeko, argazki bakoitzak deskribapen testua (alt) izan behar du.
