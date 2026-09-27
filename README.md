@@ -131,17 +131,33 @@ Hau kontuan izanik, kolore bat esleitzeko, gida honek gaiei lotutako ondorengo k
 
 | Funtzioa      | Kolorea    |  Hex Kodea     |  Sentsazioa / Helburua     |
 | :---          | :---       |     :----:     |  :---                      |
-| **Atzeko plano nagusia** | Krema, beixa  | #FDFBF7  | Goxoa, garbia eta zuri purua baino leunagoa begietara |
-| **Kolore nagusia** | Laranja leuna, terrakota  | #E07A5F  | Beroa, goxotasuna eta katuen energia jostalaria gogorarazten ditu.|
+| **Atzeko plano nagusia** | Krema, zuri beroa  | #FDFBF7  | Goxoa, garbia eta zuri purua baino leunagoa begietara |
+| **Kolore nagusia** | Laranja leuna, terrakota  | #E07A5F  | Beroa, goxotasuna eta katuen energia jostalaria gogorarazten ditu|
 | **Bigarren mailako kolorea** | Salbia-berdea  | #81B29A  | Osasuna, ongizatea, natura eta itxaropena transmititzen ditu |
 | **Testua eta egitura** | Ikatz-gris beroa  | #3D3A45  | Irakurgarritasun handia, beltz puruaren kontraste gogorrik gabe |
-| **Ekintzarako deiak** | Kolore bizia  | #E76F51  | Botoi nagusiak nabarmentzen ditu (Adoptatu, Eman dohaintza, Izan harrera-etxea) |
+| **Ekintzarako deiak** | Koral bizia  | #E76F51  | Botoi nagusiak nabarmentzen ditu (Adoptatu, Eman dohaintza, Izan harrera-etxea) |
 
-
-
-![Nabigazio mapa](images/katuetxetikNabigazioMapa.jpg)
+![Kolore paleta](images/EstiloGidaKOLOREAK.jpg)
 
 ### 6.2. Tipografia<br>
+
+Tipografiari dagokionez, web gune honetarako forma borobildu edo leunak dituen letra-tipo bat erabiliko da izenburuentzat, xarma eta irisgarritasuna transmititzeko. Eta sans-serif neutro bat testu-gorputzerako, katu fitxak eta beharrezko baldintzak erraz irakurri ahal izan daitezen:
+
+| Funtzioa      | Izenburu eta izenak    |  Testu-gorputza     |  Estiloa eta sentsazioa     |
+| :---          | :---       |     :----:     |  :---                      |
+| **Beroa eta modernoa** | Nunito edo Quicksand  | Inter edo Open Sans | Ertz leunduko letra-tipoak maitasuna helarazteko, testu garbi eta moderno batekin |
+| **Narratiboa eta emotiboa** | Lora  | Nunito Sans  | Serif iturriak erreskate-istorioak modu intimo eta editorialagoan kontatzen laguntzen du|
+| **Hurbila eta Argia** | Rubik  | Roboto  | Egituratua, oso irakurgarria eta hurbila profesionaltasuna galdu gabe |
+
+**Katuen fitxetan erabiltzeko irizpideak:**
+- **Katuen izenak:** Erabili tituluko tipografia Bold (lodia) pisuarekin eta tamaina handian (gutxienez 24px - 32px), fitxaren erdigunea izan dadin.
+
+- **Datu teknikoak (Adina, Sexua, Izaera, Osasuna):** Erabili testu-gorputzeko iturria tamaina estandarrean (16px), etiketei lodia aplikatuz (adib., Izaera: Beldurti samarra baina oso goxoa).
+
+- **Lerrorarteko tartea:** Egokitu linearen altuera (line-height) 1.5 eta 1.6 artean testu-gorputzean, istorio luzeak erraz irakurri ahal izateko.
+
+- **Irakurgarritasuna botoietan:** Terrakota edo koral koloreko botoietan, erabili letra zuriz eta SemiBold edo Bold pisuarekin kontraste egokia bermatzeko.
+
 ### 6.3. Ikonoak<br>
 ### 6.4. Botoiak<br>
 ### 6.5. Irudiak<br>
