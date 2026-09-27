@@ -72,6 +72,7 @@ Erabiltzaileen artean bi profil nagusi identifikatu dira, lehena, erabiltzaile a
 <br>
 
 ## 4. Krokisa
+
 Krokisa burutzean **Mobile first** izan da kontutan. Webgunearen erabilerarik ugariena mobil bidez izango dela uste bait da.
 Ondorengo irudietan jaso da webguneak izango duen eskema, bertan ez dira kontutan izan ez kolore, ez tipografia, etab. Hauek estilo-gida eta prototipoan zehaztuko bait dira.
 
@@ -119,7 +120,16 @@ Irudian adierazitako loturez gain kontutan izan behar dira eman daitezken lotura
 <br>
 
 ## 6. Estilo gida
+
+Estilo gida honetan, **KatuEtxetik** , animaliak adoptatzeko, harrera-etxeak kudeatzeko eta galdutako maskotak lokalizatzeko ataria burutzeko jarraituko diren arau eta gomendioak jasoko dira.
+Bertan zehaztuko diren puntuak zehatz mehatz jarraitu beharko dira, web gune honetan ezer aportatu nahi bada.
+
 ### 6.1. Koloreak<br>
+
+Erabiliko den paleta kolorea:
+
+![Nabigazio mapa](images/katuetxetikNabigazioMapa.jpg)
+
 ### 6.2. Tipografia<br>
 ### 6.3. Ikonoak<br>
 ### 6.4. Botoiak<br>
