@@ -1,0 +1,11 @@
+Your selected colors:
+
+    Text: #3d3a45 - rgb(61, 58, 69) - hsl(256, 9%, 25%)
+    Background: #fdfbf7 - rgb(253, 251, 247) - hsl(40, 60%, 98%)
+    Primary: #e17c60 - rgb(225, 124, 96) - hsl(13, 68%, 63%)
+    Secondary: #81b19a - rgb(129, 177, 154) - hsl(151, 24%, 60%)
+    Accent: #e76e50 - rgb(231, 110, 80) - hsl(12, 76%, 61%)
+
+Realtime Colors link for selected colors: https://www.realtimecolors.com/?colors=3d3a45-fdfbf7-e17c60-81b19a-e76e50&fonts=Inter-Inter#how
+
+Thanks for using RealtimeColors.com!
