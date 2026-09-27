@@ -138,6 +138,7 @@ Hau kontuan izanik, kolore bat esleitzeko, gida honek gaiei lotutako ondorengo k
 | **Ekintzarako deiak** | Koral bizia  | #E76F51  | Botoi nagusiak nabarmentzen ditu (Adoptatu, Eman dohaintza, Izan harrera-etxea) |
 
 ![Kolore paleta](images/EstiloGidaKOLOREAK.jpg)
+![Kolore paleta Realtimes Colors ](images/EstiloGidaKoloreakRealtimeColors.png)
 
 ### 6.2. Tipografia<br>
 
