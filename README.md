@@ -131,17 +131,114 @@ Hau kontuan izanik, kolore bat esleitzeko, gida honek gaiei lotutako ondorengo k
 
 | Funtzioa      | Kolorea    |  Hex Kodea     |  Sentsazioa / Helburua     |
 | :---          | :---       |     :----:     |  :---                      |
-| **Atzeko plano nagusia** | Krema, beixa  | #FDFBF7  | Goxoa, garbia eta zuri purua baino leunagoa begietara |
-| **Kolore nagusia** | Laranja leuna, terrakota  | #E07A5F  | Beroa, goxotasuna eta katuen energia jostalaria gogorarazten ditu.|
+| **Atzeko plano nagusia** | Krema, zuri beroa  | #FDFBF7  | Goxoa, garbia eta zuri purua baino leunagoa begietara |
+| **Kolore nagusia** | Laranja leuna, terrakota  | #E07A5F  | Beroa, goxotasuna eta katuen energia jostalaria gogorarazten ditu|
 | **Bigarren mailako kolorea** | Salbia-berdea  | #81B29A  | Osasuna, ongizatea, natura eta itxaropena transmititzen ditu |
 | **Testua eta egitura** | Ikatz-gris beroa  | #3D3A45  | Irakurgarritasun handia, beltz puruaren kontraste gogorrik gabe |
-| **Ekintzarako deiak** | Kolore bizia  | #E76F51  | Botoi nagusiak nabarmentzen ditu (Adoptatu, Eman dohaintza, Izan harrera-etxea) |
+| **Ekintzarako deiak** | Koral bizia  | #E76F51  | Botoi nagusiak nabarmentzen ditu (Adoptatu, Eman dohaintza, Izan harrera-etxea) |
 
-
-
-![Nabigazio mapa](images/katuetxetikNabigazioMapa.jpg)
+![Kolore paleta](images/EstiloGidaKOLOREAK.jpg)
+![Kolore paleta Realtimes Colors ](images/EstiloGidaKoloreakRealtimeColors.png)
 
 ### 6.2. Tipografia<br>
+
+Tipografiari dagokionez, web gune honetarako forma borobildu edo leunak dituen letra-tipo bat erabiliko da izenburuentzat, xarma eta irisgarritasuna transmititzeko. Eta sans-serif neutro bat testu-gorputzerako, katu fitxak eta beharrezko baldintzak erraz irakurri ahal izan daitezen. Konbinazio hauek Google Fonts-etik atera dira:
+
+| Funtzioa      | Izenburu eta izenak    |  Testu-gorputza     |  Estiloa eta sentsazioa     |
+| :---          | :---                   |     :----:          |  :---                       |
+| **Beroa eta modernoa** | Nunito  | Inter edo Open Sans | Ertz leunduko letra-tipoak maitasuna helarazteko, testu garbi eta moderno batekin |
+| **Narratiboa eta emotiboa** | Lora  | Nunito Sans  | Serif iturriak istorioak modu intimo eta editorialagoan kontatzen laguntzen du. Katuak galdu/bilatu...|
+| **Hurbila eta Argia** | Rubik  | Roboto  | Egituratua, oso irakurgarria eta hurbila profesionaltasuna galdu gabe |
+
+**Katuen fitxetan erabiltzeko irizpideak:**
+- **Katuen izenak:** Izenburuko tipografia Bold (lodia) pisuarekin eta tamaina handian (gutxienez 24px - 32px) erabiliko da, fitxaren erdigunea izan dadin.
+
+- **Datu teknikoak (Adina, Sexua, Izaera, Osasuna):** Testu-gorputzeko iturria tamaina estandarrean (16px), etiketei Bold aplikatuz (adib., Izaera: Beldurti samarra baina oso goxoa) erabiliko da.
+
+- **Lerrorarteko tartea:** Linearen altuera (line-height) 1.5 eta 1.6 artean egokituko da testu-gorputzean, istorio luzeak erraz irakurri ahal izateko.
+
+- **Irakurgarritasuna botoietan:** Terrakota edo koral koloredun botoietan, letra zuria eta SemiBold edo Bold pisuarekin erabiliko da, kontraste egokia bermatzeko.
+
 ### 6.3. Ikonoak<br>
+
+Webguneak itxura profesionala, atsegina eta irisgarria izateko, ikonoek irizpide hauek bete behar dituzte:
+
+- **Estilo-koherentzia bateratua:**
+
+   - Webgune osoan, ikono familia bera erabiliko da.
+
+   - Ertz borobildudun ikonoak erabiliko dira, tipografiarako gomendatutako estiloarekin bat egiteko.
+
+- **Argitasuna eta intuitibotasuna:**
+
+   - Ikonoa berez ulertu behar da.
+  
+- **Formatua, SVG nahitaez:**
+
+   - SVG formatua (PNG edo JPG-ren ordez) erabiliko da. SVG fitxategiek ez dute kalitaterik galtzen pantaila handietan, oso gutxi pisatzen dute eta CSS bidez kolorea erraz aldatzeko aukera ematen dute.
+
+- **Kolore-armonia:**
+
+   - Erabili kolore bakarreko ikonoak, aurreikusitako paletako tonuak erabiliz: ikatz-grisa (#3D3A45), salbia berdea (#81B29A) edo terrakota (#E07A5F).
+
+- **Irisgarritasuna:**
+
+   - Botoietan edo katuen fitxetan ikonoak jartzean, kontraste nahikoa izan behar dute atzealdearekin.
+
+   - Ikusmen-desgaitasuna duten pertsonentzat pantaila-irakurleek ikonoa irakurtzeko, ikono bakoitzak bere aria-label edo alt atributua izatea beharrezkoa da.
+
+
+Aurreko atalean definitutako tipografia kontuan izanik, webguneko ikonoek ondorengo tamaina izan beharko dute. Horrela, testuaren eta ikonoaren arteko oreka bisuala lortuko da:
+
+- **16px testurako,** ikono-tamaina: 20px × 20px (edo gehienez 24px × 24px).
+
+- **24 - 32px testurako,** ikono-tamaina: 28px × 28px (edo gehienez 32px × 32px).
+
 ### 6.4. Botoiak<br>
+
+- **Botoi-hierarkia eta koloreak:**
+
+| Botoi mota      | Kolorea    |  Textuaren kolorea     |  Erabilera     |
+| :---          | :---       |     :----:     |  :---                      |
+| **Nagusia** | Koral bizia (#E76F51)  | Zuria (#FFFFFF)  | Webguneko ekintza garrantzitsuenetarako (adopzioa, dohaintza,...) |
+| **Bigarren mailakoa** | Salbia Berdea (#81B29A)  | Zuria (#FFFFFF) edo Ikatz-grisa (#3D3A45)  | Bigarren mailako ekintzetarako (fitxa ikusi, iragazi, harrera-informazioa)|
+| **Premiazkoa** | Terrakota (#E07A5F)  | Zuria (#FFFFFF)  | Premiazko harrera-etxeak edo kasu larriak nabarmentzeko |
+| **Ezgaitua (Disabled)** | Gris Argia (#E0E0E0)  | Ikatz-grisa (#3D3A45)  | Adib: Formularioan nahitaezko datuak bete gabe daudenean |
+
+- **Botoien tamainak eta neurri teknikoak:**
+
+| Tamaina        | Altuera       |  Padding-a                     |  Testu-tamaina     |
+| :---           | :---          |     :----:                     |  :---              |
+| **Handia(L)** | 48px – 52px  | 14px goian/behean, 28px alboetan  | 18px (SemiBold) |
+| **Ertaina(M)** | 40px – 44px  | 10px goian/behean, 20px alboetan | 16px (SemiBold) |
+| **Txikia(S)** | 32px – 36px  | 6px goian/behean, 14px alboetan | 14px (Medium) |
+
+- **Estiloa, forma eta tipografia:**
+  
+   - Botoien ertza borobildua izango da (border-radius): 8px eta 12px artean. Ertz borobilduak goxoagoak eta hurbilagoak dira.
+
+   - Ikonoak botoietan: Botoi nagusietan ikono bat jartzen bada, testuaren ezkerrean jarri behar da, 8px-ko tartearekin (gap: 8px).
+
+- **Interaktibitatea (Micro-interactions):**
+
+Botoi batek bizia dela erakutsi behar du sagua gainetik pasatzean edo sakatzean:
+
+   - Hover (sagua gainean dela): Kolorea %10 ilundu eta botoia 2px igotzea itzal leun bat gehituz.
+
+   - Active (sakatzean): Botoia 1px beherantz sakatu dela simulatuko da.
+
 ### 6.5. Irudiak<br>
+
+Katuen adopzio webgune batean, hauen argazkiek emozioa piztu eta konfiantza helarazi behar dute, horretarako, argi naturala eta tonu beroak erabiliko dira argazkitan, koloretan bezala hotzak sahiestuaz. Hala nola, giro etxekoia, pertsonalizazioa, duintasuna eman beharko zaie argazki hauei.
+
+- **Erabilgarritasunari** dagokionez:
+  
+   - Webp edo AVIF formatuan landuko dira irudiak. JPG edo PNG formatuen kalitate bera eskaitzen dute, baina pisu gutxiagorekin.
+
+   - Irudiek gutxi okupatu behar dute (100 - 150 KB). Webguneak 2 segunduren azpitik kargatu behar du mugikorretan.
+
+   - Resoluzioa ere zaindu behar da pantailetan ikusteko balio estandarra erabiliz.
+
+- **Irisgarritasunari** dagokionez berriz:
+
+     - Pantaila-irakurleak erabiltzen dituzten pertsonentzat zein Google-n kokatzeko, argazki bakoitzak deskribapen testua (alt) izan behar du.
