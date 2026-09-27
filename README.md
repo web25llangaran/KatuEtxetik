@@ -126,7 +126,18 @@ Bertan zehaztuko diren puntuak zehatz mehatz jarraitu beharko dira, web gune hon
 
 ### 6.1. Koloreak<br>
 
-Erabiliko den paleta kolorea:
+Katuak jaso, zaindu eta adoptatzeko webgune baterako, koloreen paletak, konfiantza, goxotasuna, lasaitasuna eta itxaropena transmititu behar ditu, tonu hotz edo erasokorrak saihestuz.
+Hau kontuan izanik, kolore bat esleitzeko, gida honek gaiei lotutako ondorengo kolore-paleta proposatzen du: 
+
+| Funtzioa      | Kolorea    |  Hex Kodea     |  Sentsazioa / Helburua     |
+| :---          | :---       |     :----:     |  :---                      |
+| **Atzeko plano nagusia** | Krema, beixa  | #FDFBF7  | Goxoa, garbia eta zuri purua baino leunagoa begietara |
+| **Kolore nagusia** | Laranja leuna, terrakota  | #E07A5F  | Beroa, goxotasuna eta katuen energia jostalaria gogorarazten ditu.|
+| **Bigarren mailako kolorea** | Salbia-berdea  | #81B29A  | Osasuna, ongizatea, natura eta itxaropena transmititzen ditu |
+| **Testua eta egitura** | Ikatz-gris beroa  | #3D3A45  | Irakurgarritasun handia, beltz puruaren kontraste gogorrik gabe |
+| **Ekintzarako deiak** | Kolore bizia  | #E76F51  | Botoi nagusiak nabarmentzen ditu (Adoptatu, Eman dohaintza, Izan harrera-etxea) |
+
+
 
 ![Nabigazio mapa](images/katuetxetikNabigazioMapa.jpg)
 
