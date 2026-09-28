@@ -105,11 +105,12 @@ Eskritorio prototipoa, adopzioa:
 
 ## 5. Nabigazio mapa
 
-Webguneak sei orri izango ditu, hauek bi mailatan banatuko dira:
+Webguneak sei orri izango ditu, hauek hiru mailatan banatuko dira:
 
 1. Maila: Hasiera orria.
-2. Maila: Elkarte, adoptatu, lagundu.
-3. Maila: Animalien fitxa, bazkidetza formularioa.
+2. Maila: Elkarte, adoptatu, alertak, lagundu eta albisteak.
+3. Maila: Animalien fitxa, alertaren fitxa (galera), alertaren fitxa (egoera aldaketa), harrera etxea parte hartu, bazkidetza formularioa, bankuko pasabidea, boluntaritza formularioa.
+4. Maila: Adopzio formularioa.
 
 Webgunearen antolaketa eta nabigazioaren parte bat definitu da ondorengo irudian:
 
