@@ -95,11 +95,11 @@ Orri guztietan goiburu bera definitu da, logoa, menua, bilaketa, dohaintza eta h
 
 Eskritorio prototipoa, hasiera:
 
-![Eskritorio prototipoa, hasiera](images/EskritorioPrototipoaHasiera.jpg)
+![Eskritorio prototipoa, hasiera](images/EskritorioKrokisaHasiera.jpg)
 
 Eskritorio prototipoa, adopzioa:
 
-![Eskritorio prototipoa, adopzioa](images/EskritorioPrototipoaAdopzioa.jpg)
+![Eskritorio prototipoa, adopzioa](images/EskritorioKrokisaAdopzioa.jpg)
 
 <br>
 
