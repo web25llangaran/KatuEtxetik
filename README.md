@@ -262,12 +262,13 @@ Edukien lizentziari dagokionez, ondorengo lerrotan jasota geratzen da erabiliko 
 
 - **Ikonoak:**
 
-      BootStrap Icons erabiliko da. BootStrap Icons: Kode irekiko, dohakoa eta kalitate handiko 2000 ikonoz gora. SVG formatuan, hauek bootstrapekin edo gabe erabil daitezke.
+      BootStrap Icons erabiliko da. Hau 2000 ikonoz goraztik osatutako kode irekiko, dohakoa eta kalitate handiko erraminta da.
   
 - **Irudiak:**
 
-Webgune honetarako irudi portzentai handiena katuena izango da, hauen argazkiak, eta KatuEtxetik Animalien Babesleen Sareko langileek burututakoak izango dira. Hauen lizentzia Creative Commons erakoa izango da CC BY-NC-ND 4.0.
-Bestelako argazkiak berriz ondorengo webguneetatik jasoko dira: [Unsplash.com](https://unsplash.com/es) , [Pixabay](https://pixabay.com/es/), [Pexels](https://www.pexels.com/es-es/) Hauek lizentzia propiodunak eta dohakoak izango dira.
+      Webgune honetarako irudi portzentai handiena katuena izango da, hauen argazkiak, eta KatuEtxetik Animalien Babesleen Sareko langileek burututakoak izango dira. Hauen lizentzia Creative Commons erakoa izango da CC BY-NC-ND 4.0.
+
+     Bestelako argazkiak berriz ondorengo webguneetatik jasoko dira: [Unsplash.com](https://unsplash.com/es) , [Pixabay](https://pixabay.com/es/), [Pexels](https://www.pexels.com/es-es/) Hauek lizentzia propiodunak eta dohakoak izango dira.
 
 ## 9. Erabilgarritasunaren azterketa
 
