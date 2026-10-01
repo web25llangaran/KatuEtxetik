@@ -257,14 +257,17 @@ Prototipoa Figma.com IAren bidez burutu da, eta ondorengo estekan aurkitzen da: 
 Edukien lizentziari dagokionez, ondorengo lerrotan jasota geratzen da erabiliko diren lizentzia iturriak:
 
 - **Tipografia:**
-     Google Fonts erabiliko da letra motentzat. Hau kode irekiko lizentzia da. Doakoa
+  
+     Google Fonts erabiliko da letra motentzat. Hau kode irekiko lizentzia da. Dohakoa
 
 - **Ikonoak:**
 
-      BootStrap Icons erabiliko da.
-      Free, high quality, open source icon library with over 2,000 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project.
-
+      BootStrap Icons erabiliko da. BootStrap Icons: Kode irekiko, dohakoa eta kalitate handiko 2000 ikonoz gora. SVG formatuan, hauek bootstrapekin edo gabe erabil daitezke.
+  
 - **Irudiak:**
+
+Webgune honetarako irudi portzentai handiena katuena izango da, hauen argazkiak, eta KatuEtxetik Animalien Babesleen Sareko langileek burututakoak izango dira. Hauen lizentzia Creative Commons erakoa izango da CC BY-NC-ND 4.0.
+Bestelako argazkiak berriz ondorengo webguneetatik jasoko dira: [Unsplash.com](https://unsplash.com/es) , [Pixabay](https://pixabay.com/es/), [Pexels](https://www.pexels.com/es-es/) Hauek lizentzia propiodunak eta dohakoak izango dira.
 
 ## 9. Erabilgarritasunaren azterketa
 
