@@ -272,4 +272,31 @@ Edukien lizentziari dagokionez, ondorengo lerrotan jasota geratzen da erabiliko 
 
 ## 9. Erabilgarritasunaren azterketa
 
+   KatuEtxetik webgunea garatzean erabilgarritasuna ardatz nagusietako bat izango da, erabiltzaile-profil anitza (gazteak eta weberako ohitura gutxiko pertsona helduak) kontuan hartuta.
+
+Kontuan hartu beharrekoak:
+
+   ISO 9241-11: efikazia (animalien babesleen sareak eta erabiltzaileak bere helburua lortzea: adoptatu, alerta sortu, dohaintza egin), efizientzia (klik eta esfortzu gutxi) eta gogobetetasuna (esperientzia positiboa).
+Nielsenen 10 heuristikoak: egoeraren ikusgarritasuna, hizkuntza ulergarria, kontrola eta askatasuna, koherentzia, erabilera malgutasuna, erroreen prebentzioa, menuak ikusgai, diseinu minimalista, akatsen konponbidea eta laguntza FAQ.
+
+   Gaur egunera egokitzeko ere kontutan izan dira:
+   
+- Irisgarritasuna: alt testuak, aria-label atributuak, kontraste nahikoa eta teklatuarekin nabigatzeko aukera.
+  
+- Mobile first eta abiadura: botoi handiak, beheko nabigazio barra iraunkorra, irudi arinak (WebP/AVIF) eta 2 segundo azpiko karga.
+  
+- Irakurketa-ereduak: informazio garrantzitsuena eta ekintza-deiak toki egokian jarriko dira.
+
+Emango diren pausoak:
+
+- Analisi heuristikoa: prototipoa Nielsenen 10 printzipioen arabera berrikusi, eta aurkitutako arazoak zuzendu.
+  
+- Irisgarritasun-berrikuspena: kontrastea, testu-tamainak eta alt testuak egiaztatu, batez ere testu txiki eta grisetan.
+  
+- Erabiltzaile testak: 5 erabiltzailerekin (profil gazteak eta helduak nahastuz) zeregin zehatzak proposatu: katu bat adoptatzeko prozesua hasi, galdutako maskota baten alerta sortu eta dohaintza egin. Horrela arazoen %85 inguru detektatuko da.
+  
+- Gogobetetasun inkesta: SUS galdetegia pasatu proba ondoren.
+  
+Hobekuntzak eta berriz probatzea: emaitzen arabera diseinua doitu eta aldaketak berrikusi.
+
 ## 10. Bibliografia
