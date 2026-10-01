@@ -252,10 +252,19 @@ Katuen adopzio webgune batean, hauen argazkiek emozioa piztu eta konfiantza hela
 
 Prototipoa Figma.com IAren bidez burutu da, eta ondorengo estekan aurkitzen da: [Figman prototipoa](https://www.figma.com/files/folder/573773369)
 
-
-
-
 ## 8. Edukien lizentzia
+
+Edukien lizentziari dagokionez, ondorengo lerrotan jasota geratzen da erabiliko diren lizentzia iturriak:
+
+- **Tipografia:**
+     Google Fonts erabiliko da letra motentzat. Hau kode irekiko lizentzia da. Doakoa
+
+- **Ikonoak:**
+
+      BootStrap Icons erabiliko da.
+      Free, high quality, open source icon library with over 2,000 icons. Include them anyway you like—SVGs, SVG sprite, or web fonts. Use them with or without Bootstrap in any project.
+
+- **Irudiak:**
 
 ## 9. Erabilgarritasunaren azterketa
 
