@@ -314,8 +314,10 @@ KatuEtxetik webgunearen diseinua burutzerako orduan, ondorengo iturriak kontsult
 - Erabilgarritasuna, diseinu-printzipioak, irisgarritasuna, estilo-gida, tipografia eta baliabide teknikoak:
 
    - Miguel Altuna Lanbide Heziketa (2026-2027) ikasmateriala.
-   - [Google Fonts](https://fonts.google.com/)
-   - [Realtimecolors](https://www.realtimecolors.com/)
+   - Tipografia: [Google Fonts](https://fonts.google.com/)
+   - Koloreak: [Realtimecolors](https://www.realtimecolors.com/)
+   - Irudiak: [Unsplash.com](https://unsplash.com/es) , [Pixabay](https://pixabay.com/es/), [Pexels](https://www.pexels.com/es-es/)
+   - Ikonoak: [BootStrap Icons](https://icons.getbootstrap.com/)
    - [IA Figma](https://www.figma.com/)
    - [IA Claude](https://claude.ai/)
  
