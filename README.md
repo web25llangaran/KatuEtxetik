@@ -19,6 +19,10 @@ Animalien Babesleen Sarearen Webgunea
    6.3. [Ikonoak](#63-ikonoak) <br>
    6.4. [Botoiak](#64-botoiak) <br>
    6.5. [Irudiak](#65-irudiak) <br>
+7. [Prototipoa](#7-prototipoa)
+8. [Edukien lizentzia](#8-edukien-lizentzia)
+9. [Erabilgarritasunaren azterketa](#9-erabilgarritasunaren-azterketa)
+10. [Bibliografia](#10-bibliografia)
 
 <br>
 
@@ -243,3 +247,12 @@ Katuen adopzio webgune batean, hauen argazkiek emozioa piztu eta konfiantza hela
 - **Irisgarritasunari** dagokionez berriz:
 
      - Pantaila-irakurleak erabiltzen dituzten pertsonentzat zein Google-n kokatzeko, argazki bakoitzak deskribapen testua (alt) izan behar du.
+
+## 7. Prototipoa
+
+
+## 8. Edukien lizentzia
+
+## 9. Erabilgarritasunaren azterketa
+
+## 10. Bibliografia
