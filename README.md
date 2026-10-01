@@ -252,7 +252,7 @@ Katuen adopzio webgune batean, hauen argazkiek emozioa piztu eta konfiantza hela
 
 ## 7. Prototipoa
 
-Prototipoa Figma.com IAren bidez burutu da, eta ondorengo estekan aurkitzen da: [Figman prototipoa](https://www.figma.com/files/folder/573773369)
+Prototipoa Figma.com IAren bidez burutu da, eta ondorengo estekan aurkitzen da: [Figma prototipoa](https://www.figma.com/files/folder/573773369)
 
 <br>
 
@@ -321,7 +321,7 @@ KatuEtxetik webgunearen diseinua burutzerako orduan, ondorengo iturriak kontsult
  
 - Benchmarka (aztertutako webguneak)
 
-  - [Gipuzkoako Animalien Babeslea]([https://protectoradegipuzkoa.com/eu](https://protectoradegipuzkoa.com/eu))
+  - [Gipuzkoako Animalien Babeslea](https://protectoradegipuzkoa.com/eu)
   - [Esperanza Felina](https://www.esperanzafelina.com/)
   - [Katubihotz](https://www.katubihotz.com/)
   - [Adopciones La Granja de Labayru](https://www.adopcioneslagranja.com/)
