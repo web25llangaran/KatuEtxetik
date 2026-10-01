@@ -22,7 +22,7 @@ Animalien Babesleen Sarearen Webgunea
 7. [Prototipoa](#7-prototipoa)
 8. [Edukien lizentzia](#8-edukien-lizentzia)
 9. [Erabilgarritasunaren azterketa](#9-erabilgarritasunaren-azterketa)
-10. [Bibliografia](#10-bibliografia)
+10. [Bibliografia eta webgrafia](#10-bibliografia-eta-webgrafia)
 
 <br>
 
