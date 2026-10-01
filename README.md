@@ -248,9 +248,13 @@ Katuen adopzio webgune batean, hauen argazkiek emozioa piztu eta konfiantza hela
 
      - Pantaila-irakurleak erabiltzen dituzten pertsonentzat zein Google-n kokatzeko, argazki bakoitzak deskribapen testua (alt) izan behar du.
 
+<br>
+
 ## 7. Prototipoa
 
 Prototipoa Figma.com IAren bidez burutu da, eta ondorengo estekan aurkitzen da: [Figman prototipoa](https://www.figma.com/files/folder/573773369)
+
+<br>
 
 ## 8. Edukien lizentzia
 
@@ -269,6 +273,8 @@ Edukien lizentziari dagokionez, ondorengo lerrotan jasota geratzen da erabiliko 
   Webgune honetarako irudi portzentai handiena katuena izango da, hauen argazkiak, eta KatuEtxetik Animalien Babesleen Sareko langileek burututakoak izango dira. Hauen lizentzia Creative Commons erakoa izango da CC BY-NC-ND 4.0.
 
   Bestelako argazkiak berriz ondorengo webguneetatik jasoko dira: [Unsplash.com](https://unsplash.com/es) , [Pixabay](https://pixabay.com/es/), [Pexels](https://www.pexels.com/es-es/) Hauek lizentzia propiodunak eta dohakoak izango dira.
+
+  <br>
 
 ## 9. Erabilgarritasunaren azterketa
 
@@ -298,6 +304,8 @@ Emango diren pausoak:
 - Gogobetetasun inkesta: SUS galdetegia pasatu proba ondoren.
   
 Hobekuntzak eta berriz probatzea: emaitzen arabera diseinua doitu eta aldaketak berrikusi.
+
+<br>
 
 ## 10. Bibliografia eta webgrafia
 
