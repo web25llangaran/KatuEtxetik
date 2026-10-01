@@ -299,4 +299,33 @@ Emango diren pausoak:
   
 Hobekuntzak eta berriz probatzea: emaitzen arabera diseinua doitu eta aldaketak berrikusi.
 
-## 10. Bibliografia
+## 10. Bibliografia eta webgrafia
+
+KatuEtxetik webgunearen diseinua burutzerako orduan, ondorengo iturriak kontsultatu dira:
+
+- Erabilgarritasuna, diseinu-printzipioak, irisgarritasuna, estilo-gida, tipografia eta baliabide teknikoak:
+
+   - Miguel Altuna Lanbide Heziketa (2026-2027) ikasmateriala.
+   - [Google Fonts](https://fonts.google.com/)
+   - [Realtimecolors](https://www.realtimecolors.com/)
+   - [IA Figma](https://www.figma.com/)
+   - [IA Claude](https://claude.ai/)
+ 
+- Benchmarka (aztertutako webguneak)
+
+  - [Gipuzkoako Animalien Babeslea]([https://protectoradegipuzkoa.com/eu](https://protectoradegipuzkoa.com/eu))
+  - [Esperanza Felina](https://www.esperanzafelina.com/)
+  - [Katubihotz](https://www.katubihotz.com/)
+  - [Adopciones La Granja de Labayru](https://www.adopcioneslagranja.com/)
+  - [Felinos Bilbao](https://felinosbilbao.org)
+
+
+
+
+
+
+
+
+
+
+
