@@ -252,7 +252,7 @@ Katuen adopzio webgune batean, hauen argazkiek emozioa piztu eta konfiantza hela
 
 Prototipoa Figma.com IAren bidez burutu da, eta ondorengo estekan aurkitzen da:
 
-![Figman prototipoa](https://www.figma.com/files/folder/573773369)
+![Figman prototipoa](https://www.figma.com/files/team/1615763718930470723/folder/573773369?fuid=1615763717130288275)
 
 
 
